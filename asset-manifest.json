@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/wood-engineering-standart/static/css/main.7acaea2f.css",
-    "main.js": "/wood-engineering-standart/static/js/main.07d3183d.js",
+    "main.css": "/wood-engineering-standart/static/css/main.8f949797.css",
+    "main.js": "/wood-engineering-standart/static/js/main.afddeed7.js",
+    "static/media/forest.webp": "/wood-engineering-standart/static/media/forest.1b7d32564fa92da15cad.webp",
+    "static/media/oi-v19-cyrillic_latin-regular.woff2": "/wood-engineering-standart/static/media/oi-v19-cyrillic_latin-regular.292606325c0d6f7bdeca.woff2",
+    "static/media/montserrat-v26-cyrillic_latin-700.woff2": "/wood-engineering-standart/static/media/montserrat-v26-cyrillic_latin-700.2b8c1cd22973e56e5b5b.woff2",
+    "static/media/montserrat-v26-cyrillic_latin-500.woff2": "/wood-engineering-standart/static/media/montserrat-v26-cyrillic_latin-500.b188591ea5c4fbdbd4cb.woff2",
+    "static/media/montserrat-v26-cyrillic_latin-regular.woff2": "/wood-engineering-standart/static/media/montserrat-v26-cyrillic_latin-regular.ea03c090639282f43d77.woff2",
+    "static/media/ico.svg": "/wood-engineering-standart/static/media/ico.e4f81e5bd7393e434456217777b2dd82.svg",
     "index.html": "/wood-engineering-standart/index.html",
-    "main.7acaea2f.css.map": "/wood-engineering-standart/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/wood-engineering-standart/static/js/main.07d3183d.js.map"
+    "main.8f949797.css.map": "/wood-engineering-standart/static/css/main.8f949797.css.map",
+    "main.afddeed7.js.map": "/wood-engineering-standart/static/js/main.afddeed7.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.8f949797.css",
+    "static/js/main.afddeed7.js"
   ]
 }
