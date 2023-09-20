@@ -27,6 +27,10 @@ export const IntroTitle = styled.h1`
   font-weight: 400;
   color: #fff;
   margin-bottom: 30px;
+
+  @media screen and (max-width: 767px) {
+    font-size: 30px;
+  }
 `;
 
 export const IntroText = styled.p`
@@ -34,6 +38,10 @@ export const IntroText = styled.p`
   color: #fff;
   max-width: 600px;
   margin-bottom: 30px;
+
+  @media screen and (max-width: 767px) {
+    font-size: 18px;
+  }
 `;
 
 export const ContactWrapper = styled.div`
